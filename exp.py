@@ -1,4 +1,4 @@
-n=int(input('Enter a number'))
+n=int(input('Enter a number for factorial :'))
 n1=n
 while n1>1:
   n=n-1
